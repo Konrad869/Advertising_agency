@@ -1,0 +1,1 @@
+Strona Advertising_agency to strona która prezentuje stronę agencji reklamy została wykonana w technologi HTML 5 , CSS3 ,JS , Scss . Strona zachowuje zasady RWD należy pobrać pliki zip lub pobrać za pomocą git clone w terminalu aktualnie pracuję nad jej upoblicznieniem .
