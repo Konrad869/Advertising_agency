@@ -1,14 +1,14 @@
 
-@import "./variables.scss";
+@use "./variables.scss";
 
 
 
-@import "./global.scss";
+@use "./global.scss";
 
-@import "./components/buttons.scss";
-@import "./components/dividers.scss";
-@import "./components/navbar.scss";
+@use "./components/buttons.scss";
+@use "./components/dividers.scss";
+@use "./components/navbar.scss";
 
 
-@import "./sections/masthead.scss";
-@import "./sections/portfolio.scss";
+@use "./sections/masthead.scss";
+@use "./sections/portfolio.scss";
