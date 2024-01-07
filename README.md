@@ -1,1 +1,1 @@
-Strona Advertising_agency to strona która prezentuje stronę agencji reklamy została wykonana w technologi HTML 5 , CSS3 ,JavaScript , Scss . Strona zachowuje standardy  RWD.
+The Advertising_agency website is a website that presents the website of an advertising agency and was created using HTML 5, CSS3, JavaScript, Scss technology. The website maintains RWD standards.
