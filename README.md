@@ -3,7 +3,7 @@ Advertising_agency is a page presenting the website of an advertising agency, cr
 Tech
 
 
-JobOffers is developed using following technologies:
+Advertising_agency is developed using following technologies:
 
 
  
